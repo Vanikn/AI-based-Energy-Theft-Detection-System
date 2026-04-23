@@ -1,4 +1,3 @@
-# AI-based-Energy-Theft-Detection-System
 # AI-Based Energy Theft Detection System
 ### MCA Final Year Project | IoT + Machine Learning
 
